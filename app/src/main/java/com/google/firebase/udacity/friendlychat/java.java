@@ -5,4 +5,5 @@ package com.google.firebase.udacity.friendlychat;
  */
 
 public class java {
+    int a;
 }
